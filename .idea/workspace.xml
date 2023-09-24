@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7311320-388d-4c93-93ed-ba9f7575b238" name="Changes" comment="1.4" />
+    <list default="true" id="c7311320-388d-4c93-93ed-ba9f7575b238" name="Changes" comment="1.4">
+      <change afterPath="$PROJECT_DIR$/3.2/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/img_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.2/3.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.2/3.2.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/1.4/1.4.md" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3.2/3.2.md" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
