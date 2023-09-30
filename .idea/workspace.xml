@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7311320-388d-4c93-93ed-ba9f7575b238" name="Changes" comment="1.4">
-      <change afterPath="$PROJECT_DIR$/3.2/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.2/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.2/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.2/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.2/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.2/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.2/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.2/img_7.png" afterDir="false" />
+    <list default="true" id="c7311320-388d-4c93-93ed-ba9f7575b238" name="Changes" comment="3.2">
+      <change afterPath="$PROJECT_DIR$/3.2/img_8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.2/3.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.2/3.2.md" afterDir="false" />
@@ -167,7 +160,35 @@
       <option name="project" value="LOCAL" />
       <updated>1694930434543</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="3.2">
+      <created>1695589255238</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695589255238</updated>
+    </task>
+    <task id="LOCAL-00018" summary="3.2">
+      <created>1695589319941</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695589319941</updated>
+    </task>
+    <task id="LOCAL-00019" summary="3.2">
+      <created>1695589379818</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1695589379818</updated>
+    </task>
+    <task id="LOCAL-00020" summary="3.2">
+      <created>1695590529857</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1695590529857</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +209,7 @@
     <MESSAGE value="2.4" />
     <MESSAGE value="1.5" />
     <MESSAGE value="1.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.4" />
+    <MESSAGE value="3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.2" />
   </component>
 </project>
